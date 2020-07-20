@@ -1,6 +1,10 @@
 Toyata
 Mazda
 Honda
+Buick
+Audi
+KIA
+Tesla
 BMW
 Jaguar
 Bentley
