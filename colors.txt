@@ -6,3 +6,5 @@ green
 brown
 ###white
 purple
+pink
+orange
